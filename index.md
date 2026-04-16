@@ -1,3 +1,7 @@
+---
+title: Victor Haro Justiniano CS 499 ePortfolio
+---
+
 ## Professional Self-Assessment
  
 Beginning the Computer Science program was both an opportunity and a challenge for me. I originally chose this path because my employer offered educational support, but over time it became much more personal than that. I saw this program as a step toward my larger goal of building a career in the Air Force. I came into the program excited because I have always liked taking on new challenges, but I was also trying to balance a demanding work schedule, military training, and life with two kids. Managing all of that while staying committed to school was one of the hardest parts of the journey. What made the biggest difference was learning not to rely only on myself and instead make better use of the support around me. That helped me grow more confident and realize this was something I could succeed in.    
