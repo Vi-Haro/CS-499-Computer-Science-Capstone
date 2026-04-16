@@ -18,4 +18,4 @@ Welcome to my Computer Science capstone ePortfolio.
 - [Enhancement 3 Databases Narrative](narratives/Enhancement%203%20Databases%20Narrative.docx)
 
 ## Code Review
-- [Watch my Code Review video]((https://youtu.be/DOya2FUn4fw )) 
+- [Watch my Code Review video](https://youtu.be/DOya2FUn4fw )
